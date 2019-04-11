@@ -14,7 +14,7 @@ Packaged as a war file
 
 ## Running
 
-1. git clone https://github.com/testaccgit/free-project
+1. git clone https://github.com/testaccgit/free-project.git
 2. cd free-project
 3. mvn install
 
