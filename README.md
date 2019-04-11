@@ -1,5 +1,5 @@
 Free Project
-=============================
+==============================
 
 Free Sample Hello World Java application 
 Packaged as a war file
