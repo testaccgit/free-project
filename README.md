@@ -14,10 +14,9 @@ Packaged as a war file
 
 ## Running
 
-1. git clone https://github.com/testaccgit
+1. git clone https://github.com/testaccgit/free-project
 2. cd free-project
 3. mvn install
-4. run target/hello-1.0.war
 
 Done!
 
